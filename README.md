@@ -3,7 +3,7 @@ The project aim is to build a machine learning model that offers users to find c
 
 **Project title:** CarDekho Used Car Price Prediction.
 
-**Technologies:** Data Cleaning, Exploratory Data Analysis (EDA), Visualization and Machine Learning.
+**Technologies:** Python Scripting, Data Cleaning, Exploratory Data Analysis (EDA), Visualization and Machine Learning.
 
 **Domain:** Automobile.
 
